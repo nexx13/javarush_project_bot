@@ -1,0 +1,1 @@
+# javarush_project_bot
